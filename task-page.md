@@ -18,6 +18,6 @@
 - Step 3
 - etc.
 ---
-#####   Call to action
-#####   CTA link
+####  Call to action
+#####   [CTA link](https://www.example.com)
 ---
