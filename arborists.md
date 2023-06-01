@@ -7,8 +7,8 @@
 
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
-  <!-- description with headline CT reference #1 -->
-    ### An Arborist License enables you to:
+
+   ### An Arborist License enables you to:
     <!-- In final version of CT, these headlines will be chosen fron a standard list  -->
     make recommendations or execute tree surgery-type work, including:
     - tree removal, 
