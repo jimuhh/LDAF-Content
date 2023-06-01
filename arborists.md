@@ -40,7 +40,7 @@ enables you to: recommend and execute the removal of trees or portions of trees 
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
 
-  ### License requirements :
+  ### Application process :
 
 1. Review exam reference material- “ARBORISTS’ CERTIFICATION STUDY GUIDE,” Third Edition, by Sharon J. Lilly, Copyright © 2010 by the International Society of Arboriculture. Purchased book online.
 2. When you're ready, make an appointment for an exam. Exam costs $114.
@@ -48,3 +48,6 @@ enables you to: recommend and execute the removal of trees or portions of trees 
 
  
 <!-- // description with headline CT reference -->
+
+<!-- Linked PDF -->
+[Arborist exam topic list](https://app.contentful.com/spaces/pc5e1rlgfrov/assets/3rW9nXpYVesH2exFsIqj0o)
