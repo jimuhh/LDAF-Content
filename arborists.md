@@ -31,13 +31,19 @@ enables you to: recommend and execute the removal of trees or portions of trees 
 
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
-  <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
+
   ### License requirements :
 #### For either license:
 - License Fee – $100 per year
 - Attendance of continuing education seminar annually for renewal of license. See [LSU Ag Center Urban Forestry Department](http://www.lsuagcenter.com/en/environment/forestry/urban_forestry/).
 - Certificate of Liability Insurance – $25,000 per person for bodily injury and $50,000 per person for property damage
+<!-- // description with headline CT reference -->
+<!-- description with headline CT reference -->
 
+  ### License requirements :
+
+1. Review exam reference material- “ARBORISTS’ CERTIFICATION STUDY GUIDE,” Third Edition, by Sharon J. Lilly, Copyright © 2010 by the International Society of Arboriculture. Purchased book online.
+2. When you're ready, make an appointment for an exam. Exam costs $114.
 
 
  
