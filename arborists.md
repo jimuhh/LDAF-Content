@@ -7,7 +7,6 @@
 
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
-
    ### An Arborist License enables you to:
   make recommendations or execute tree surgery-type work, including:
    - tree removal, 
