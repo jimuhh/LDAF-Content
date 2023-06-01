@@ -35,7 +35,9 @@ enables you to: recommend and execute the removal of trees or portions of trees 
 #### For either license:
 - License Fee – $100 per year
 - Attendance of continuing education seminar annually for renewal of license. See [LSU Ag Center Urban Forestry Department](http://www.lsuagcenter.com/en/environment/forestry/urban_forestry/).
-- Certificate of Liability Insurance – $25,000 per person for bodily injury and $50,000 per person for property damage
+- Certificate of Liability Insurance 
+   - $25,000 per person for bodily injury 
+   - $50,000 per person for property damage
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
 
