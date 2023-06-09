@@ -15,7 +15,9 @@ Production and processing of **medical marijuana** and/or ingestible or topical 
 
 
 #### To grow industrial hemp in Louisiana
-- Comes from the same plant family
+- TK
+- TK
+- TK
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
 ## Licensing
