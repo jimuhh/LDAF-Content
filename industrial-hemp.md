@@ -11,13 +11,14 @@ The Louisiana Department of Agriculture and Forestry defines industrial hemp as:
 - Contains far less of the psychoactive sustance, THC. (less than .3 vs up to 38% for medical marijuana)
 - Has been grown for centuries for its versatile fiber and nutritious seeds. 
 
-#### Regulation
+#### Regulating agencies
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of medical marijuana:** are regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
 
 
-### To grow industrial hemp in Louisiana you must
+#### General Requirements
+All growers and processors must:
 - Pay $500 
 - Obtain a license
 - Buy only seeds that have been certified to contain less than .3% THC
