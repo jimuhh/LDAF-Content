@@ -17,9 +17,7 @@ The Louisiana Department of Agriculture and Forestry defines industrial hemp as:
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
 
 
-
-
-#### To grow industrial hemp in Louisiana
+### To grow industrial hemp in Louisiana
 - TK
 - TK
 - TK
