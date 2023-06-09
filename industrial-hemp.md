@@ -6,7 +6,7 @@
 The Louisiana Department of Agriculture and Forestry regulates production and processing of industrial hemp, which it defines as:
 > all plant parts and varieties of the cannabis plant and any part of the plant cultivated or possessed by an industrial hemp licensee, with a total THC concentration level of not more than 0.3% on a dry weight basis.
 
-#### Who regulates it
+#### Who's in charge
 Production and processing of **medical marijuana** and/or ingestible or topical products containing Cannabidiol (**CBD**) are regulated by [The Louisiana Board of Health](https://ldh.la.gov/). Businesses or individuals interested in **selling CBD products** must also be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
 
 #### Industrial hemp
