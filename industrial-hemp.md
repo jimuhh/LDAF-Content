@@ -3,11 +3,15 @@
 <!--service group subhead -->
 ## It's legal to grow and process industrial hemp in Louisiana--if you follow the rules
 ### The Basics
-#### Industrial hemp 
-- Comes from the same plant family as medical marijuana (Cannabis Sativa), but contains far less of the psychoactive substance known as THC. 
+The Louisiana Department of Agriculture and Forestry regulates production and processing of industrial hemp, which it defines as:
+> all plant parts and varieties of the cannabis plant and any part of the plant cultivated or possessed by an industrial hemp licensee, with a total THC concentration level of not more than 0.3% on a dry weight basis.
+#### Industrial hemp
+- Comes from the same plant family as medical marijuana (Cannabis Sativa), but contains far less of the psychoactive substance known as THC. (less than .3 vs up to 38% for medical marijuana)
 - Has been grown for centuries for its versatile fiber and nutritious seeds. 
-- May contain more Cannabidiol (CBD)
+- May contain large quantities of non-psychoactive Cannabidiol (CBD,) whose potential health benefits Science are still being studied.
 
+#### To grow industrial hemp in Louisiana
+- Comes from the same plant family
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
 ## Licensing
