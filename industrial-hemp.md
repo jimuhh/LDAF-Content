@@ -17,10 +17,12 @@ The Louisiana Department of Agriculture and Forestry defines industrial hemp as:
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
 
 
-### To grow industrial hemp in Louisiana
-- TK
-- TK
-- TK
+### To grow industrial hemp in Louisiana you must
+- Pay $500 
+- Obtain a license
+- Buy only seeds that have been certified to contain less than .3% THC
+- Have LDAF test your hemp and seed crop for THC content
+
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
 ## Licensing
