@@ -1,10 +1,13 @@
 <!-- service group title -->
 # Industrial hemp
+<!--service subhead -->
+### Produce and process non-consumable hemp in Louisiana
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
 ## Licensing
 <!--entry subhead -->
-### tk
+
+
 <!--// entry subhead -->
 
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
