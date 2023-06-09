@@ -19,6 +19,8 @@ All growers and processors must:
 - Obtain a license
 - Buy only seeds that have been certified to contain less than .3% THC
 - Have LDAF test your hemp and seed crop for THC content
+**For more information, see:**
+[Full text of Louisiana Industrial Hemp law](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf) 
 
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
