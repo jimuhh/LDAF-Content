@@ -18,7 +18,7 @@ All growers and processors must:
 - Pay $500 
 - Obtain a license
 - Buy only seeds that LDAF has designated as containing less than .3% THC.
- - For more information on THC content of commercial seed varieties, See [Variety Designation List](http://www.ldaf.state.la.us/wp-content/uploads/2023/05/Variety-Designation-List-2023May09.pdf). 
+ - For more information on THC content of commercial seed varieties, Consult LDAF's [Variety Designation List](http://www.ldaf.state.la.us/wp-content/uploads/2023/05/Variety-Designation-List-2023May09.pdf). 
 - Have LDAF test your hemp and seed crop for THC content
 
 **For more information, see:**
