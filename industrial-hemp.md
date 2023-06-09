@@ -6,14 +6,17 @@
 The Louisiana Department of Agriculture and Forestry defines industrial hemp as:
 > all plant parts and varieties of the cannabis plant and any part of the plant cultivated or possessed by an industrial hemp licensee, with a total THC concentration level of not more than 0.3% on a dry weight basis.
 
-### Who's in charge of what
+### Industrial hemp
+- Comes from the same plant family as medical marijuana (Cannabis Sativa)
+- Contains far less of the psychoactibe sustance, THC. (less than .3 vs up to 38% for medical marijuana)
+- Has been grown for centuries for its versatile fiber and nutritious seeds. 
+
+### How Louisiana regulates hemp products
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of medical marijuana:** are regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
 
-### Industrial hemp
-- Comes from the same plant family as medical marijuana (Cannabis Sativa), but contains far less of the psychoactive substance known as THC. (less than .3 vs up to 38% for medical marijuana)
-- Has been grown for centuries for its versatile fiber and nutritious seeds. 
+
 
 
 #### To grow industrial hemp in Louisiana
