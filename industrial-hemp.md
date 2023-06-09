@@ -1,7 +1,7 @@
 <!-- service group title -->
 # Industrial hemp
 <!--service subhead -->
-### Produce and process non-consumable hemp in Louisiana
+## Produce and process non-consumable hemp in Louisiana
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
 ## Licensing
