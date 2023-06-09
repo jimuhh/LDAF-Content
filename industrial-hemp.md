@@ -1,7 +1,7 @@
 <!-- service group title -->
 # Industrial hemp
 <!--service subhead -->
-## Produce and process non-consumable hemp in Louisiana
+## It's legal to grow and process industrial hemp in Louisiana if you follow the rules
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
 ## Licensing
