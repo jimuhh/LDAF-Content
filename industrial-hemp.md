@@ -15,8 +15,9 @@ The Louisiana Department of Agriculture and Forestry regulates production and sa
 
 ### General Requirements
 All growers and processors must:
+- Apply for and obtain a license 
 - Pay $500 
-- Obtain a license
+- Pass a background check
 - Buy only seeds that LDAF has designated as containing less than .3% THC.
  - For more information on THC content of commercially available seed varieties, Consult LDAF's [Variety Designation List](http://www.ldaf.state.la.us/wp-content/uploads/2023/05/Variety-Designation-List-2023May09.pdf). 
 - Have LDAF test your hemp and seed crop for THC content
