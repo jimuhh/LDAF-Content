@@ -1,3 +1,5 @@
+<!-- service group title -->
+# Industrial hemp
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
 ## Licensing
