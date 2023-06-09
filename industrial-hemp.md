@@ -8,7 +8,7 @@ The Louisiana Department of Agriculture and Forestry defines industrial hemp as:
 
 ### Industrial hemp
 - Comes from the same plant family as medical marijuana (Cannabis Sativa)
-- Contains far less of the psychoactibe sustance, THC. (less than .3 vs up to 38% for medical marijuana)
+- Contains far less of the psychoactive sustance, THC. (less than .3 vs up to 38% for medical marijuana)
 - Has been grown for centuries for its versatile fiber and nutritious seeds. 
 
 ### How Louisiana regulates hemp products
