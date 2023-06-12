@@ -14,7 +14,7 @@ The Louisiana Department of Agriculture and Forestry regulates production and sa
 
 
 ### General Requirements
-All growers and processors must:
+All growers, processors and handlers must:
 - Apply for and obtain a license 
 - Pay $500 
 - Pass a background check
