@@ -16,11 +16,12 @@ Industrial hemp is also "non-consumable: meaning that it a person can't ingest i
 
 ### General Requirements
 All growers, processors and handlers must:
-- Apply for and obtain a license 
-- Pay $500 
+- Complete a license application 
 - Pass a background check verifying that the you, or the Designated Responsible Party do not have:  
     - A **felony conviction within ten years** immediately preceding the date of the application. 
     - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.
+- Wait for approval 
+- Pay $500 per license requested
 - Buy only seeds that LDAF has designated as containing less than .3% THC.
 (See LDAF's [Variety Designation List](http://www.ldaf.state.la.us/wp-content/uploads/2023/05/Variety-Designation-List-2023May09.pdf). )
 - Have LDAF test your hemp and seed crop for THC content
@@ -39,13 +40,13 @@ All growers, processors and handlers must:
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
    ### Types of licenses
-  There are different licenses for growing, processing and handling industrial hemp and its seeds.
+  There are different licenses for growing, processing and handling industrial hemp and its seeds but you can apply for any or all of them on the same form. 
 - **Grower License:** Authorizes cultivation of industrial hemp regardless of the intended use
 - **Processor License:** Authorizes processing of non-consumable industrial hemp
 - **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
 - **Handler:** Authorizes transportation, commercial harvesting, cleaning and packaging hemp seed, brokering and testing industrial hemp
 
-All of them require the same application process but you can specify which license(s) you're applying for. Each license requires a separate $500 application fee. You may apply for multiple licenses on one appplication. 
+Each license requires a separate $500 application fee. 
    
  <!-- // description with headline CT reference -->
 
