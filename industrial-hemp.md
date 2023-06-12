@@ -19,7 +19,7 @@ People **may** grow and produce Industrial Hemp in Louisiana if they **meet all 
 ###  Responsibility and oversight
 <!--// service group section hed -->
 <!--service group section subhed -->
-#### Production, distribution and sale of hemp products, as well as licensing for people in the trade, are governed by different boards and departments in the state of Louisiana. 
+#### Production, distribution and sale of hemp products, as well as licensing for people in the trade, are governed by different agencies of Louisiana's government.
 <!--// service group section subhed -->
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
