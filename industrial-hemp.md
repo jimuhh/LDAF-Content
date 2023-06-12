@@ -84,7 +84,7 @@ If you have criminal history information believed to have been expunged or other
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
 
-  ### Register your growing or processing location
+  ### Register your growing, storage or processing location
   Create a color photographic map for each growing, storage, handling, or processing location. [See instructions for creating maps.](http://www.ldaf.state.la.us/wp-content/uploads/2021/11/Map-Instructions-for-Applications.pdf)
   
   If the location of growing, processing, handling, or storing changes from what was on your original application, complete a Site Modification Request.
