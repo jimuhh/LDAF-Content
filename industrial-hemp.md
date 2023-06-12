@@ -60,7 +60,7 @@ Each license requires a separate $500 application fee.
   <!-- description with headline CT reference #2 -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
  
- ### Steps to apply 
+ ## Steps to apply 
   
 
   <!-- // description with headline CT reference #3 -->
