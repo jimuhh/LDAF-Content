@@ -31,7 +31,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 - Have LDAF test your the hemp or seed you're buying, selling or processing for THC content
 
 ### For more information
-#### See:
+
 [Full text of Louisiana Industrial Hemp law](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf) 
 
 <!--service categories (from category content type): Licensing, industrial hemp-->
@@ -40,6 +40,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 <!-- entry title -->
 ### Industrial hemp licensing
 <!--// entry title -->
+
 <!--entry subhead -->
 #### There are different licenses for growing, processing and handling industrial hemp and its seeds but you can apply for any or all of them on the same form. 
 
