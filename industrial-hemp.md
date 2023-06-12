@@ -18,7 +18,9 @@ Industrial hemp is also "non-consumable: meaning that it a person can't ingest i
 All growers, processors and handlers must:
 - Apply for and obtain a license 
 - Pay $500 
-- Pass a background check verifying that the applicant does not have:  felony conviction within ten years immediately preceding the date of the application. ☐  A drug-related misdemeanor conviction within two years immediately preceding the date of the application.
+- Pass a background check verifying that the applicant does not have:  
+    - felony conviction within ten years immediately preceding the date of the application. 
+    - A drug-related misdemeanor conviction within two years immediately preceding the date of the application.
 - Buy only seeds that LDAF has designated as containing less than .3% THC.
 (See LDAF's [Variety Designation List](http://www.ldaf.state.la.us/wp-content/uploads/2023/05/Variety-Designation-List-2023May09.pdf). )
 - Have LDAF test your hemp and seed crop for THC content
