@@ -75,7 +75,7 @@ The Louisiana State Police is required to certify that you don't have
     - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.If you have criminal history information believed to have been expunged or otherwise dismissed, complete a Right to Review Disclosure Form when applying for background check  
     
 <!-- Description with headline CT reference -->
-#### 2. Steps to completion
+##### 2. Steps to completion
 1. Complete LDAF background check authorization form.
 2. Complete rapsheet disclosure form.
 3. Get two sets of fingerprint cards (Form FD-258) from the Louisiana State Police (LSP). (While you can also get them from a post office, they might not be accepted and could delay the process).
