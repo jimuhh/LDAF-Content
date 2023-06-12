@@ -55,21 +55,24 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 #### Fees
 Each license requires a separate $500 application fee. 
    
- <!-- // description with headline CT reference -->
+ <!-- Description with headline CT reference -->
   #### Before you begin
 - Review the [industrial hemp law ](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf)
 - Download and print the compliance checklist.
 - Refer to universities and other sources for information on hemp best management practices. LSU AgCenter provides useful information.
-  <!-- description with headline CT reference #2 -->
-  <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
+<!-- // description with headline CT reference -->
+
+<!-- description with headline CT reference #2 -->
+<!-- In final version of CT, the headlines will be chosen fron a standard list  -->
  *****
+<!-- description with headline CT reference -->
  ### Steps to apply 
   
 
 <!-- // description with headline CT reference #3 -->
 
- <!-- description with headline CT reference -->
-  <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
+
+
   #### Background check 
 ###### 1. General info
 The Louisiana State Police is required to certify that you don't have
