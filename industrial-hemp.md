@@ -76,7 +76,7 @@ If applying for multiple licenses, you’re only required to provide one state a
 <!-- description with headline CT reference -->
 
   ### Create a map of your location
-  Create a color photographic map for each growing, storage, handling, or processing location. See instructions for creating maps.
+  Create a color photographic map for each growing, storage, handling, or processing location. [See instructions for creating maps.](http://www.ldaf.state.la.us/wp-content/uploads/2021/11/Map-Instructions-for-Applications.pdf)
 #### For either license:
 
 
