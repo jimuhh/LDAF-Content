@@ -48,19 +48,23 @@ All growers, processors and handlers must:
 
   <!-- description with headline CT reference #2 -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  ### Grower License :
-  enables you to: recommend and execute the removal of trees or portions of trees along utility rights of way.
+  ## Prepare for your license
+  ### Learn the basics
+- Review the industrial hemp law 
+- Download and print the compliance checklist.
+- Refer to universities and other sources for information on hemp best management practices. LSUAgCenter provides useful information.
   <!-- // description with headline CT reference #3 -->
 
  <!-- description with headline CT reference -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  ### Processor License :
+  ### Pass a background check
 enables you to: recommend and execute the removal of trees or portions of trees along utility rights of way.
 
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
 
-  ### License requirements :
+  ### Create a map of your location
+  Create a color photographic map for each growing, storage, handling, or processing location. See instructions for creating maps.
 #### For either license:
 
 
