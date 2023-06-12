@@ -65,7 +65,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 
 <!-- // description with headline CT reference -->
 <!-- Description with headline CT reference -->
-#### Fees
+##### Fees
 Each license requires a separate $500 application fee. 
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference #2 -->
