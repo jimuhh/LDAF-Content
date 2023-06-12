@@ -81,14 +81,14 @@ The Louisiana State Police is required to certify that you don't have
 4. Mail or hand-deliver fingerprint cards, the background check form, the rapsheet disclosure form, and background check fees to the LSP Criminal Records Dissemination Section:
 <!-- // Description with headline CT reference -->
 <!-- // Contact reference -->
-    <dl>
-    <dt>LSP, Criminal Records Dissemination Section</dt>
-    <dd> 7919 Independence Blvd.</dd> 
-    <dd> Baton Rouge, </dd>
-    <dd> LA 70806 </dd>
-    <dt> Phone:</dt>
-    <dd>225-925-6095</dd>
-    </dl>
+ <dl>
+ <dt>LSP, Criminal Records Dissemination Section</dt>
+ <dd> 7919 Independence Blvd.</dd> 
+ <dd> Baton Rouge, </dd>
+ <dd> LA 70806 </dd>
+ <dt> Phone:</dt>
+ <dd>225-925-6095</dd>
+ </dl>
 <!-- // Contact reference -->
 
 Business hours: M-F 8am - 3pm
