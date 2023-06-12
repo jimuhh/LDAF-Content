@@ -35,13 +35,13 @@ All growers and processors must:
 
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
-   ### TK
+   ### Types of licenses
   make recommendations or execute tree surgery-type work, including:
-   - tree removal, 
-   - pruning, 
-   - trimming, 
-   - cabling, 
-   - fertilization, and cavity work. 
+- **Grower License:** Authorizes cultivation of industrial hemp regardless of the intended use
+- **Processor License:** Authorizes processing of non-consumable industrial hemp
+- **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
+- **Handler:** Authorizes transportation, commercial harvesting, cleaning and packaging hemp seed, brokering and testing industrial hemp
+
    
  <!-- // description with headline CT reference -->
 
