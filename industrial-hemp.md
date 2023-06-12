@@ -107,8 +107,12 @@ Background checks are intended to verify that applicants do not have:
     - A **felony conviction within ten years** immediately preceding the date of the application. 
     - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.
     
-**If you have criminal history information which you believed has been expunged or otherwise dismissed,** 
-Please complete a Right to Review Disclosure Form when applying for background check  
+**If you...**
+- have criminal history information which you believed has been expunged or otherwise dismissed:
+    - Please complete a Right to Review Disclosure Form when applying for background check  
+
+- are applying for multiple licenses: 
+    - You’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
     
 <!-- Description with headline CT reference -->
 ##### 2. Steps to completion
@@ -138,7 +142,7 @@ Please complete a Right to Review Disclosure Form when applying for background c
 *****
 <!-- // description with headline CT reference -->
 
-If applying for multiple licenses, you’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
+
 
 
 <!-- // description with headline CT reference -->
