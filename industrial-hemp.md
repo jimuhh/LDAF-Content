@@ -1,7 +1,10 @@
 <!-- service group title -->
 # Industrial hemp
+<!--// service group title -->
 <!--service group subhead -->
 ## It's legal to grow and process industrial hemp in Louisiana--if you follow the rules
+<!--// service group subhead -->
+<!-- service group summary -->
 Industrial hemp has been grown for centuries for its versatile fiber and nutritious seeds. It comes from the same plant family as medical marijuana (Cannabis Sativa) but contains far less of the psychoactive sustance, THC. (less than .3% vs up to 38% for medical marijuana). 
 The Louisiana Department of Agriculture and Forestry regulates production and sale of Industrial hemp, which it defines as:
 > all plant parts and varieties of the cannabis plant and any part of the plant cultivated or possessed by an industrial hemp licensee, with a total THC concentration level of not more than 0.3% on a dry weight basis.
@@ -9,16 +12,23 @@ Industrial hemp is also defined as "non-consumable: meaning that it a person can
 
 People **may** grow and produce Industrial Hemp in Louisiana if they **meet all requirements, follow all applicable rules and complete all required steps.** 
 
+<!--// service group summary -->
 
-
-
+<!--service group section block -->
+<!--service group section hed -->
 ###  Responsibility and oversight
+<!--// service group section hed -->
+<!--service group section subhed -->
+#### Production, distribution and sale of hemp products, as well as licensing for people in the trade, are governed by different boards and departments in the state of Louisiana. 
+<!--// service group section subhed -->
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
 - **Background checks** The Louisiana State Police (LSP) receives and processes all requests for background checks.
-
+<!--//service group info block -->
+<!--service group section hed -->
 ### General Requirements
+<!--// service group section hed -->
 Anyone who wishes to grow, process, store or transport industrial hemp or industrial hemp seeds must:
 - Complete a license application 
 - Pass a background check verifying that the you, or the Designated Responsible Party do not have:  
