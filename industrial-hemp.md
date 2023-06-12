@@ -73,7 +73,7 @@ The Louisiana State Police is required to certify that you don't have
     - A **felony conviction within ten years** immediately preceding the date of the application. 
     - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.If you have criminal history information believed to have been expunged or otherwise dismissed, complete a Right to Review Disclosure Form when applying for background check  
     
-    <!-- Description with headline CT reference -->
+<!-- Description with headline CT reference -->
 #### 2. Steps to completion
 1. Complete LDAF background check authorization form.
 2. Complete rapsheet disclosure form.
