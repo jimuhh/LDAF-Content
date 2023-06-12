@@ -12,7 +12,7 @@ People **may** grow and produce Industrial Hemp in Louisiana if they **meet all 
 
 
 
-### Responsibility and oversight
+###  Responsibility and oversight
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
@@ -35,7 +35,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 
 <!--service categories (from category content type): Licensing, Horticulture -->
 <!-- entry title -->
-## Licensing
+### Licensing
 <!--entry subhead -->
 
 
@@ -43,7 +43,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
-   ### Types of licenses
+   #### Types of licenses
   There are different licenses for growing, processing and handling industrial hemp and its seeds but you can apply for any or all of them on the same form. 
 - **Grower License:** Authorizes cultivation of industrial hemp regardless of the intended use
 - **Processor License:** Authorizes processing of non-consumable industrial hemp
@@ -60,7 +60,7 @@ Each license requires a separate $500 application fee.
   <!-- description with headline CT reference #2 -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
  
- ## Steps to apply 
+ ### Steps to apply 
   
 
 <!-- // description with headline CT reference #3 -->
