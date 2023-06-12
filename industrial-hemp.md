@@ -10,12 +10,12 @@ The Louisiana Department of Agriculture and Forestry regulates production and sa
 Industrial hemp is also "non-consumable: meaning that it a person can't ingest it in eaten or smoked form. 
 ### Who manages what
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
-- **Production and processing of medical marijuana:** are regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
+- **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
 
 
 ### General Requirements
-All growers, processors and handlers must:
+Getting re
 - Complete a license application 
 - Pass a background check verifying that the you, or the Designated Responsible Party do not have:  
     - A **felony conviction within ten years** immediately preceding the date of the application. 
