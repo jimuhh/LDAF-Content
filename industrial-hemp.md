@@ -72,17 +72,25 @@ Each license requires a separate $500 application fee.
 The Louisiana State Police is required to certify that you don't have
     - A **felony conviction within ten years** immediately preceding the date of the application. 
     - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.If you have criminal history information believed to have been expunged or otherwise dismissed, complete a Right to Review Disclosure Form when applying for background check  
+    
+    <!-- Description with headline CT reference -->
 #### 2. Steps to completion
-Complete LDAF background check authorization form.
-Complete rapsheet disclosure form.
-Get two sets of fingerprint cards (Form FD-258) from the Louisiana State Police (LSP). (While you can also get them from a post office, they might not be accepted and could delay the process).
-Mail or hand-deliver fingerprint cards, the background check form, the rapsheet disclosure form, and background check fees to the LSP Criminal Records Dissemination Section:
+1. Complete LDAF background check authorization form.
+2. Complete rapsheet disclosure form.
+3. Get two sets of fingerprint cards (Form FD-258) from the Louisiana State Police (LSP). (While you can also get them from a post office, they might not be accepted and could delay the process).
+4. Mail or hand-deliver fingerprint cards, the background check form, the rapsheet disclosure form, and background check fees to the LSP Criminal Records Dissemination Section:
+<!-- // Description with headline CT reference -->
+<!-- // Contact reference -->
 LSP, Criminal Records Dissemination Section
 7919 Independence Blvd.
 Baton Rouge, LA 70806
 Phone: 225-925-6095
+<!-- // Contact reference -->
+
 Business hours: M-F 8am - 3pm
 Website: http://www.lsp.org/technical.html#criminal 
+<!-- // description with headline CT reference -->
+
 If applying for multiple licenses, you’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
 
 
