@@ -47,7 +47,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
-   #### Types of licenses
+   ##### Types of licenses
 
 - **Grower License:** Authorizes cultivation of industrial hemp regardless of the intended use
 - **Processor License:** Authorizes processing of non-consumable industrial hemp
@@ -57,7 +57,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 
    
  <!-- Description with headline CT reference -->
-  #### Before you begin
+  ##### Before you begin
 - Review the [industrial hemp law ](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf)
 - Download and print the compliance checklist.
 - Refer to universities and other sources for information on hemp best management practices. LSU AgCenter provides useful information.
