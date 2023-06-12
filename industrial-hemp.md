@@ -47,13 +47,13 @@ All growers and processors must:
 
   <!-- description with headline CT reference #2 -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  ### A Utility Arborist License :
+  ### Grower License :
   enables you to: recommend and execute the removal of trees or portions of trees along utility rights of way.
   <!-- // description with headline CT reference #3 -->
 
  <!-- description with headline CT reference -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  ### A Utility Arborist License :
+  ### Processor License :
 enables you to: recommend and execute the removal of trees or portions of trees along utility rights of way.
 
 <!-- // description with headline CT reference -->
