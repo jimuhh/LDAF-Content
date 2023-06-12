@@ -14,13 +14,14 @@ People **may** grow and produce Industrial Hemp in Louisiana if they **meet all 
 
 <!--// service group summary -->
 
-<!--service group section block -->
+
 <!--service group section hed -->
 ###  Responsibility and oversight
 <!--// service group section hed -->
 <!--service group section subhed -->
 #### Production, distribution and sale of hemp products, as well as licensing for people in the trade, are governed by different agencies of Louisiana's government.
 <!--// service group section subhed -->
+<!--service group section block -->
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
@@ -29,7 +30,9 @@ People **may** grow and produce Industrial Hemp in Louisiana if they **meet all 
 <!--service group section hed -->
 ### General Requirements
 <!--// service group section hed -->
-Anyone who wishes to grow, process, store or transport industrial hemp or industrial hemp seeds must:
+<!--service group section subhed -->
+#### Anyone who wishes to grow, process, store or transport industrial hemp or industrial hemp seeds must complete the following steps
+<!--//service group section subhed -->
 - Complete a license application 
 - Pass a background check verifying that the you, or the Designated Responsible Party do not have:  
     - A **felony conviction within ten years** immediately preceding the date of the application. 
