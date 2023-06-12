@@ -33,7 +33,8 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 **For more information, see:**
 [Full text of Louisiana Industrial Hemp law](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf) 
 
-<!--service categories (from category content type): Licensing, Horticulture -->
+<!--service categories (from category content type): Licensing, industrial hemp-->
+****
 <!-- entry title -->
 ### Licensing
 <!--entry subhead -->
