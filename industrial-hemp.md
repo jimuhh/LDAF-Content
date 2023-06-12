@@ -139,19 +139,32 @@ Background checks are intended to verify that applicants do not have:
     <dd>http://www.lsp.org/technical.html#criminal </dd>
 </dl>
 
+
+<!-- // Contact reference -->
+<!--// Service entry-->
 *****
-<!-- // description with headline CT reference -->
-
-
-
-
-<!-- // description with headline CT reference -->
-<!-- description with headline CT reference -->
-
-  ### Register your growing, storage or processing location
-  Create a color photographic map for each growing, storage, handling, or processing location. [See instructions for creating maps.](http://www.ldaf.state.la.us/wp-content/uploads/2021/11/Map-Instructions-for-Applications.pdf)
+<!--Service entry-->
+<!--Service entry title-->
+  ### Location mapping and registration
+<!--// Service entry title-->
+<!--entry subhead -->
+#### You must create a color photographic map for each growing, storage, handling, or processing location.
+<!--//entry subhead -->
+<!-- // description with headline (DwH) reference -->
+<!--headline for DwH-->
+##### Creating the map
+<!--// headline for DwH-->
+<!-- description for DwH -->
+  - [General instructions](http://www.ldaf.state.la.us/wp-content/uploads/2021/11/Map-Instructions-for-Applications.pdf)
   
-  If the location of growing, processing, handling, or storing changes from what was on your original application, complete a Site Modification Request.
+  - If the location of growing, processing, handling, or storing changes from what was on your original application, complete a **Site Modification Request.
+<!--// description for DwH -->
+<!--// description with headline CT reference -->
+<!--// Service entry-->
+*****
+<!--Service entry-->
+<!--Service entry title-->
+
   ### Designate a responsible party
 for all daily business operations and is auth to sign all req. IH prog docs on entity's Bhalf
 
