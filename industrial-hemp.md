@@ -81,7 +81,7 @@ The Louisiana State Police is required to certify that you don't have
 4. Mail or hand-deliver fingerprint cards, the background check form, the rapsheet disclosure form, and background check fees to the LSP Criminal Records Dissemination Section:
 <!-- // Description with headline CT reference -->
 <!-- // Contact reference -->
-<dl>
+    <dl>
     <dt>LSP, Criminal Records Dissemination Section</dt>
 
 <dd> 7919 Independence Blvd.</dd> 
