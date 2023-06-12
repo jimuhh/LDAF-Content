@@ -80,6 +80,7 @@ The Louisiana State Police is required to certify that you don't have
 3. Get two sets of fingerprint cards (Form FD-258) from the Louisiana State Police (LSP). (While you can also get them from a post office, they might not be accepted and could delay the process).
 4. Mail or hand-deliver fingerprint cards, the background check form, the rapsheet disclosure form, and background check fees to the LSP Criminal Records Dissemination Section:
 <!-- // Description with headline CT reference -->
+*****
 <!-- // Contact reference -->
  <dl>
  <dt>LSP, Criminal Records Dissemination Section</dt>
@@ -96,6 +97,7 @@ The Louisiana State Police is required to certify that you don't have
     <dt>Website:</dt>
     <dd>http://www.lsp.org/technical.html#criminal </dd>
 </dl>
+*****
 <!-- // description with headline CT reference -->
 
 If applying for multiple licenses, you’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
