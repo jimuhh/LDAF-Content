@@ -67,7 +67,7 @@ Each license requires a separate $500 application fee.
 
  <!-- description with headline CT reference -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  #### Background check 
+  ### Background check 
 ##### 1. General info
 The Louisiana State Police is required to certify that you don't have
     - A **felony conviction within ten years** immediately preceding the date of the application. 
