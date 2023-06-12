@@ -58,7 +58,19 @@ All growers, processors and handlers must:
  <!-- description with headline CT reference -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
   ### Pass a background check
-enables you to: recommend and execute the removal of trees or portions of trees along utility rights of way.
+Pass a background check
+Complete LDAF background check authorization form.
+Complete rapsheet disclosure form.
+Get two sets of fingerprint cards (Form FD-258) from the Louisiana State Police (LSP). (While you can also get them from a post office, they might not be accepted and could delay the process).
+Mail or hand-deliver fingerprint cards, the background check form, the rapsheet disclosure form, and background check fees to the LSP Criminal Records Dissemination Section:
+LSP, Criminal Records Dissemination Section
+7919 Independence Blvd.
+Baton Rouge, LA 70806
+Phone: 225-925-6095
+Business hours: M-F 8am - 3pm
+Website: http://www.lsp.org/technical.html#criminal 
+If applying for multiple licenses, you’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
+
 
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
