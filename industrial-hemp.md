@@ -5,12 +5,13 @@
 Industrial hemp has been grown for centuries for its versatile fiber and nutritious seeds. It comes from the same plant family as medical marijuana (Cannabis Sativa) but contains far less of the psychoactive sustance, THC. (less than .3% vs up to 38% for medical marijuana). 
 The Louisiana Department of Agriculture and Forestry regulates production and sale of Industrial hemp, which it defines as:
 > all plant parts and varieties of the cannabis plant and any part of the plant cultivated or possessed by an industrial hemp licensee, with a total THC concentration level of not more than 0.3% on a dry weight basis.
+Industrial hemp is also defined as "non-consumable: meaning that it a person can't ingest it in eaten or smoked form. 
 
-Louisiana allows people in the state to grow and produce Industrial Hemp if they meet the qualifications and complete all required steps
+People may grow and produce Industrial Hemp in Louisiana if they meet the qualifications and complete all required steps
 
 
 
-Industrial hemp is also "non-consumable: meaning that it a person can't ingest it in eaten or smoked form. 
+
 ### Who manages what
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
