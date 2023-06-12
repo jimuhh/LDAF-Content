@@ -90,9 +90,12 @@ The Louisiana State Police is required to certify that you don't have
  <dd>225-925-6095</dd>
  </dl>
 <!-- // Contact reference -->
-
-Business hours: M-F 8am - 3pm
-Website: http://www.lsp.org/technical.html#criminal 
+<dl>
+    <dt>Business hours:</dt>
+    <dd> M-F 8am - 3pm </dd>
+    <dt>Website:</dt>
+    <dd>http://www.lsp.org/technical.html#criminal </dd>
+</dl>
 <!-- // description with headline CT reference -->
 
 If applying for multiple licenses, you’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
