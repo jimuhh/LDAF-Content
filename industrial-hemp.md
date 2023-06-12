@@ -7,7 +7,7 @@ The Louisiana Department of Agriculture and Forestry regulates production and sa
 > all plant parts and varieties of the cannabis plant and any part of the plant cultivated or possessed by an industrial hemp licensee, with a total THC concentration level of not more than 0.3% on a dry weight basis.
 Industrial hemp is also defined as "non-consumable: meaning that it a person can't ingest it in eaten or smoked form. 
 
-People may grow and produce Industrial Hemp in Louisiana if they **meet all requirements and complete all required steps.** 
+People may grow and produce Industrial Hemp in Louisiana if they **meet all requirements, follow all applicable rules and complete all required steps.** 
 
 
 
