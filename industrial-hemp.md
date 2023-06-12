@@ -83,12 +83,9 @@ The Louisiana State Police is required to certify that you don't have
 <!-- // Contact reference -->
     <dl>
     <dt>LSP, Criminal Records Dissemination Section</dt>
-
-<dd> 7919 Independence Blvd.</dd> 
-
+    <dd> 7919 Independence Blvd.</dd> 
     <dd> Baton Rouge, </dd>
     <dd> LA 70806 </dd>
-
     <dt> Phone:</dt>
     <dd>225-925-6095</dd>
     </dl>
