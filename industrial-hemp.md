@@ -106,7 +106,7 @@ Each license requires a separate $500 application fee.
 Background checks are intended to verify that applicants do not have:
 - A **felony conviction within ten years** immediately preceding the date of the application.  
 - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.
-    
+ ###### 2. Special circumstances  
 **If you...**
 - have **criminal history information** which you believed has been **expunged** or otherwise dismissed:
     - Please complete a Right to Review Disclosure Form when applying for background check  
