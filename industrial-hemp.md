@@ -12,11 +12,11 @@ People **may** grow and produce Industrial Hemp in Louisiana if they **meet all 
 
 
 
-### Management and oversight
+### Responsibility and oversight
 - **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
 - **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
 - **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
-
+- **Background checks** The Louisiana State Police (LSP) receives and processes all requests for background checks.
 
 ### General Requirements
 Anyone who wishes to grow, process, store or transport industrial hemp or industrial hemp seeds must:
@@ -66,8 +66,12 @@ Each license requires a separate $500 application fee.
 
  <!-- description with headline CT reference -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  ### Pass a background check 
-Pass a background check
+  ### 1. Background check 
+#### General info
+The Louisiana State Police is required to certify that you don't have
+    - A **felony conviction within ten years** immediately preceding the date of the application. 
+    - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.If you have criminal history information believed to have been expunged or otherwise dismissed, complete a Right to Review Disclosure Form when applying for background check  
+#### Steps to completion
 Complete LDAF background check authorization form.
 Complete rapsheet disclosure form.
 Get two sets of fingerprint cards (Form FD-258) from the Louisiana State Police (LSP). (While you can also get them from a post office, they might not be accepted and could delay the process).
@@ -80,7 +84,6 @@ Business hours: M-F 8am - 3pm
 Website: http://www.lsp.org/technical.html#criminal 
 If applying for multiple licenses, you’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
 
-If you have criminal history information believed to have been expunged or otherwise dismissed, complete a Right to Review Disclosure Form when applying for background check  
 
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
