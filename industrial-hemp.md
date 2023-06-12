@@ -36,7 +36,7 @@ All growers and processors must:
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
    ### Types of licenses
-  make recommendations or execute tree surgery-type work, including:
+  There are different licenses for growing, processing and handling industrial hemp and its seeds.
 - **Grower License:** Authorizes cultivation of industrial hemp regardless of the intended use
 - **Processor License:** Authorizes processing of non-consumable industrial hemp
 - **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
