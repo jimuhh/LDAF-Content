@@ -50,7 +50,7 @@ All growers, processors and handlers must:
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
   ## Prepare for your license
   ### Learn the basics
-- Review the industrial hemp law 
+- Review the [industrial hemp law ](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf)
 - Download and print the compliance checklist.
 - Refer to universities and other sources for information on hemp best management practices. LSUAgCenter provides useful information.
   <!-- // description with headline CT reference #3 -->
