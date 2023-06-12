@@ -36,6 +36,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 
 <!--service categories (from category content type): Licensing, industrial hemp-->
 ****
+<!--Service entry-->
 <!-- entry title -->
 ### Licensing
 <!--entry subhead -->
@@ -52,20 +53,26 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 - **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
 - **Handler:** Authorizes transportation, commercial harvesting, cleaning and packaging hemp seed, brokering and testing industrial hemp
 
-#### Fees
-Each license requires a separate $500 application fee. 
+
    
  <!-- Description with headline CT reference -->
   #### Before you begin
 - Review the [industrial hemp law ](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf)
 - Download and print the compliance checklist.
 - Refer to universities and other sources for information on hemp best management practices. LSU AgCenter provides useful information.
-<!-- // description with headline CT reference -->
 
+
+<!-- // description with headline CT reference -->
+<!-- Description with headline CT reference -->
+#### Fees
+Each license requires a separate $500 application fee. 
+<!-- // description with headline CT reference -->
 <!-- description with headline CT reference #2 -->
 <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
- *****
+
 <!-- description with headline CT reference -->
+<!--// Service entry-->
+ *****
  ### Steps to apply 
   
 
