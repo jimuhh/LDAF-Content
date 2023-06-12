@@ -66,12 +66,12 @@ Each license requires a separate $500 application fee.
 
  <!-- description with headline CT reference -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  ### 1. Background check 
-#### General info
+  ### Background check 
+#### 1. General info
 The Louisiana State Police is required to certify that you don't have
     - A **felony conviction within ten years** immediately preceding the date of the application. 
     - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.If you have criminal history information believed to have been expunged or otherwise dismissed, complete a Right to Review Disclosure Form when applying for background check  
-#### Steps to completion
+#### 2. Steps to completion
 Complete LDAF background check authorization form.
 Complete rapsheet disclosure form.
 Get two sets of fingerprint cards (Form FD-258) from the Louisiana State Police (LSP). (While you can also get them from a post office, they might not be accepted and could delay the process).
