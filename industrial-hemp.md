@@ -18,7 +18,7 @@ Industrial hemp is also "non-consumable: meaning that it a person can't ingest i
 All growers, processors and handlers must:
 - Apply for and obtain a license 
 - Pay $500 
-- Pass a background check
+- Pass a background check verifying that the applicant does not have:  felony conviction within ten years immediately preceding the date of the application. ☐  A drug-related misdemeanor conviction within two years immediately preceding the date of the application.
 - Buy only seeds that LDAF has designated as containing less than .3% THC.
 (See LDAF's [Variety Designation List](http://www.ldaf.state.la.us/wp-content/uploads/2023/05/Variety-Designation-List-2023May09.pdf). )
 - Have LDAF test your hemp and seed crop for THC content
@@ -58,7 +58,7 @@ All of them require the same application process but you can specify which licen
 
  <!-- description with headline CT reference -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
-  ### Pass a background check
+  ### Pass a background check 
 Pass a background check
 Complete LDAF background check authorization form.
 Complete rapsheet disclosure form.
@@ -72,17 +72,28 @@ Business hours: M-F 8am - 3pm
 Website: http://www.lsp.org/technical.html#criminal 
 If applying for multiple licenses, you’re only required to provide one state and federal background check report, as long as the background check is performed within 60 days of the date the application is received by LDAF.
 
+If you have criminal history information believed to have been expunged or otherwise dismissed, complete a Right to Review Disclosure Form when applying for background check  
 
 <!-- // description with headline CT reference -->
 <!-- description with headline CT reference -->
 
-  ### Create a map of your location
+  ### Register your growing or processing location
   Create a color photographic map for each growing, storage, handling, or processing location. [See instructions for creating maps.](http://www.ldaf.state.la.us/wp-content/uploads/2021/11/Map-Instructions-for-Applications.pdf)
-#### For either license:
+  
+  If the location of growing, processing, handling, or storing changes from what was on your original application, complete a Site Modification Request.
+  ### Designate a responsible party
+for all daily business operations and is auth to sign all req. IH prog docs on entity's Bhalf
 
+Fill out the form.
 
   ### Application process :
-
+  ### Submit application
+  #### by mail
+  #### online
+  #### attach email
+  
+  ### Wait for approval
+  ### Pay registration fee of $500 per license
 tk
  
 <!-- // description with headline CT reference -->
