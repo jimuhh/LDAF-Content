@@ -38,16 +38,17 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 ****
 <!--Service entry-->
 <!-- entry title -->
-### Licensing
+### Industrial hemp licensing
+<!--// entry title -->
 <!--entry subhead -->
-
+#### There are different licenses for growing, processing and handling industrial hemp and its seeds but you can apply for any or all of them on the same form. 
 
 <!--// entry subhead -->
 
 <!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
 
    #### Types of licenses
-  There are different licenses for growing, processing and handling industrial hemp and its seeds but you can apply for any or all of them on the same form. 
+
 - **Grower License:** Authorizes cultivation of industrial hemp regardless of the intended use
 - **Processor License:** Authorizes processing of non-consumable industrial hemp
 - **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
