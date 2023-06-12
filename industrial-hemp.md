@@ -43,6 +43,7 @@ All growers, processors and handlers must:
 - **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
 - **Handler:** Authorizes transportation, commercial harvesting, cleaning and packaging hemp seed, brokering and testing industrial hemp
 
+All of them require the same application process but you can specify which license(s) you're applying for on the application. You may apply for multiple licenses on one appplication. Each license requires a separate $500 application fee. 
    
  <!-- // description with headline CT reference -->
 
