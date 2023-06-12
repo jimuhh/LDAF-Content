@@ -57,10 +57,11 @@ Each license requires a separate $500 application fee.
   <!-- description with headline CT reference #2 -->
   <!-- In final version of CT, the headlines will be chosen fron a standard list  -->
   ## Steps to apply for a license
-  ### Learn the basics
+  
+  ### Before you begin
 - Review the [industrial hemp law ](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf)
 - Download and print the compliance checklist.
-- Refer to universities and other sources for information on hemp best management practices. LSUAgCenter provides useful information.
+- Refer to universities and other sources for information on hemp best management practices. LSU AgCenter provides useful information.
   <!-- // description with headline CT reference #3 -->
 
  <!-- description with headline CT reference -->
