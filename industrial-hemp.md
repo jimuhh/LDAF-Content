@@ -52,6 +52,7 @@ Anyone who wishes to grow, process, store or transport industrial hemp or indust
 - **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
 - **Handler:** Authorizes transportation, commercial harvesting, cleaning and packaging hemp seed, brokering and testing industrial hemp
 
+#### Fees
 Each license requires a separate $500 application fee. 
    
  <!-- // description with headline CT reference -->
