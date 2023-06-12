@@ -86,9 +86,9 @@ Each license requires a separate $500 application fee.
 <!--// Service entry-->
  *****
 <!--Service entry-->
-    <!--Service entry title-->
+<!--Service entry title-->
  ### Background check 
-  <!--//Service entry title-->
+<!--//Service entry title-->
   
 <!--entry subhead -->
 ####Louisiana State Police requires a background check for anyone who wants to produce, process, transport or store hemp products
