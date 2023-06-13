@@ -79,22 +79,17 @@ Address:
 ****
 <!--Service entry-->
 <!-- entry title -->
-### Indian Creek Rules
+### Rules 
 <!--// entry title -->
 
-<!--entry subhead -->
-#### There are different licenses for growing, processing and handling industrial hemp and its seeds but you can apply for any or all of them on the same form. 
 
 <!--// entry subhead -->
 
-<!-- Below are the standard fields describing the benefits, requirements and means of accessing the service. Each one is a referenced "description with headline" content type. User can add up to ten of these -->
+- Pets are allowed but must be on leash.
+- Quiet hours are 10pm-7am.
+- No metal detectors.
+- No fireworks.
 
-   ##### Types of licenses
-
-- **Grower License:** Authorizes cultivation of industrial hemp regardless of the intended use
-- **Processor License:** Authorizes processing of non-consumable industrial hemp
-- **Seed Producer:** Authorizes production, transportation, and selling of industrial hemp seed
-- **Handler:** Authorizes transportation, commercial harvesting, cleaning and packaging hemp seed, brokering and testing industrial hemp
 
 
    
