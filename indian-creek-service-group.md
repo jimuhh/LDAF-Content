@@ -39,15 +39,6 @@ Address:
 <!--service group section subhed -->
 #### Anyone who wishes to grow, process, store or transport industrial hemp or industrial hemp seeds must complete the following steps
 <!--//service group section subhed -->
-- Complete a license application 
-- Pass a background check verifying that the you, or the Designated Responsible Party do not have:  
-    - A **felony conviction within ten years** immediately preceding the date of the application. 
-    - A **drug-related misdemeanor conviction within two years** immediately preceding the date of the application.
-- Wait for approval 
-- Pay $500 per license requested
-- Buy only seeds that LDAF has designated as containing less than .3% THC.
-(See LDAF's [Variety Designation List](http://www.ldaf.state.la.us/wp-content/uploads/2023/05/Variety-Designation-List-2023May09.pdf). )
-- Have LDAF test your the hemp or seed you're buying, selling or processing for THC content
 
 ### For more information
 
