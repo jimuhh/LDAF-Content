@@ -2,7 +2,7 @@
 # Indian Creek Recreation Area
 <!--// service group title -->
 <!--service group subhead -->
-## 2600 acres of facilities, forest, and lake area for camping, fishing, and outdoor recreation
+## 2600 acres of facilities, forest, and lake for camping, swimming, fishing, boating and outdoor recreation
 <!--// service group subhead -->
 <!-- service group summary -->
 
