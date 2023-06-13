@@ -15,18 +15,18 @@ tk
 <!--service group section hed -->
 ### Location and hours
 
-Indian Creek Recreation Area is located within the Alexander State Forest between I-49 and US Hwy 165 in central Rapides Parish. 
-#### Address
+#### Indian Creek Recreation Area is located within the Alexander State Forest between I-49 and US Hwy 165 in central Rapides Parish. 
+##### Address
 100 Camp Ground Rd, 
 Woodworth, LA 71485
 
-#### Hours
+##### Hours
 - Monday-Saturday: 7am-5:30pm
 - Sunday: 1pm-5:30pm
 
 <!--// service group section hed -->
 <!--service group section subhed -->
-#### tk
+
 <!--// service group section subhed -->
 <!--service group section block -->
 Address: 
