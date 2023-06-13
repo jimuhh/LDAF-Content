@@ -5,19 +5,25 @@
 ## 2600 acres of facilities, forest, and lake area for camping, fishing, and outdoor recreation
 <!--// service group subhead -->
 <!-- service group summary -->
-Industrial hemp has been grown for centuries for its versatile fiber and nutritious seeds. It comes from the same plant family as medical marijuana (Cannabis Sativa) but contains far less of the psychoactive sustance, THC. (less than .3% vs up to 38% for medical marijuana). 
-The Louisiana Department of Agriculture and Forestry regulates production and sale of Industrial hemp, which it defines as:
-> all plant parts and varieties of the cannabis plant and any part of the plant cultivated or possessed by an industrial hemp licensee, with a total THC concentration level of not more than 0.3% on a dry weight basis.
-Industrial hemp is also defined as "non-consumable: meaning that it a person can't ingest it in eaten or smoked form. 
+tk
 
-People **may** grow and produce Industrial Hemp in Louisiana if they **meet all requirements, follow all applicable rules and complete all required steps.** 
+
 
 <!--// service group summary -->
 
 
 <!--service group section hed -->
 ### Location and hours
+
 Indian Creek Recreation Area is located within the Alexander State Forest between I-49 and US Hwy 165 in central Rapides Parish. 
+#### Address
+100 Camp Ground Rd, 
+Woodworth, LA 71485
+
+#### Hours
+- Monday-Saturday: 7am-5:30pm
+- Sunday: 1pm-5:30pm
+
 <!--// service group section hed -->
 <!--service group section subhed -->
 #### tk
@@ -25,8 +31,7 @@ Indian Creek Recreation Area is located within the Alexander State Forest betwee
 <!--service group section block -->
 Address: 
 
-100 Camp Ground Rd, 
-Woodworth, LA 71485
+
 <!--//service group info block -->
 <!--service group section hed -->
 ### General Requirements
