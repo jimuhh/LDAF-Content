@@ -2,7 +2,7 @@
 # Indian Creek Recreation Area
 <!--// service group title -->
 <!--service group subhead -->
-## 2600 acres of facilities, forest, and lake area for recreation activities like camping, fishing, and outdoor fun
+## 2600 acres of facilities, forest, and lake area for camping, fishing, and outdoor recreation
 <!--// service group subhead -->
 <!-- service group summary -->
 Industrial hemp has been grown for centuries for its versatile fiber and nutritious seeds. It comes from the same plant family as medical marijuana (Cannabis Sativa) but contains far less of the psychoactive sustance, THC. (less than .3% vs up to 38% for medical marijuana). 
