@@ -20,6 +20,10 @@
 100 Camp Ground Rd, 
 Woodworth, LA 71485
 
+##### Hours
+- Monday-Saturday: 7am-5:30pm
+- Sunday: 1pm-5:30pm
+
 ##### Admission
 **During open hours**
 
@@ -29,9 +33,7 @@ Woodworth, LA 71485
 
 Gate entry with credit/debit card or passcode provided by the office.
 
-##### Hours
-- Monday-Saturday: 7am-5:30pm
-- Sunday: 1pm-5:30pm
+
 
 <!--// service group section hed -->
 <!--service group section subhed -->
