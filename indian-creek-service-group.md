@@ -20,8 +20,9 @@
 100 Camp Ground Rd, 
 Woodworth, LA 71485
 
-##### Entry
+##### Admission
 **During open hours**
+
 **call:** 318-487-5058
 
 **After hours**
