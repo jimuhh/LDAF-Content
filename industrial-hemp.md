@@ -171,15 +171,15 @@ Background checks are intended to verify that applicants do not have:
   ### Designate a responsible party
 <!--// Service entry title-->
 <!--entry subhead -->
-#### A responsible party is accountable for all daily business operations in any industrial hemp business.
+#### This is the person or other entity who is accountable for all daily business operations in any industrial hemp business.
 <!--// entry subhead -->
 <!-- // description with headline (DwH) reference -->
 
-##### Designated responsible party 
-means the individual identified by the commercial cannabis business who:
-- who has legal authority to bind the commercial cannabis business 
-- who is the primary contact for the application and license-related issues.
-- and is authorized to sign all required. Industrial hemp program documentss on entity's behalf.
+##### In commercial cannabis businesses, a designated responsible party 
+
+- has legal authority to bind the commercial cannabis business 
+- is the primary contact for the application and license-related issues.
+- is authorized to sign all required. Industrial hemp program documentss on entity's behalf.
 
 <!-- // description with headline (DwH) reference -->
 
