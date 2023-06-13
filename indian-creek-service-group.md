@@ -34,15 +34,36 @@ Address:
 
 <!--//service group info block -->
 <!--service group section hed -->
-### General Requirements
+### Amenities
 <!--// service group section hed -->
 <!--service group section subhed -->
-#### Anyone who wishes to grow, process, store or transport industrial hemp or industrial hemp seeds must complete the following steps
+#### Recreation area
 <!--//service group section subhed -->
 
-### For more information
 
-[Full text of Louisiana Industrial Hemp law](http://www.ldaf.state.la.us/wp-content/uploads/2021/12/Law-State-Legis-Site-12-2-2021.pdf) 
+
+- 3 beach areas
+- 5 bathrooms
+- Picnic tables
+- Covered pavilions
+- BBQ grills
+- Playground equipment
+- Boat launch
+- Trails
+#### Campsites
+
+##### The recreation area contains over 100 campsites. Camping amenities include:
+- WiFi (in RV area)
+- Water and electricity (in non-primitive camping areas)
+- Latrines
+- Showers
+- Laundry facilities
+- BBQ pits
+- Fire rings
+
+Monday-Saturday: 7am-5:30pm
+Sunday: 1pm-5:30pm
+Call us during open hours at 318-487-5058. You can get gate entry after hours by credit/debit card or passcode provided by the office.
 
 <!--service categories (from category content type): Licensing, industrial hemp-->
 ****
