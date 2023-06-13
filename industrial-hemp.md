@@ -173,7 +173,7 @@ Background checks are intended to verify that applicants do not have:
 <!--entry subhead -->
 #### This is the person or other entity who is accountable for all daily business operations in any industrial hemp business.
 <!--// entry subhead -->
-<!-- // description with headline (DwH) reference -->
+<!-- description with headline (DwH) reference -->
 
 ##### In commercial cannabis businesses, a designated responsible party 
 
@@ -181,13 +181,21 @@ Background checks are intended to verify that applicants do not have:
 - is the primary contact for the application and license-related issues.
 - is authorized to sign all required. Industrial hemp program documentss on entity's behalf.
 
+If the designated responsible party changes, complete a new Designated Responsible Party Declaration.
+
 <!-- // description with headline (DwH) reference -->
+<!-- CTA (linked to document wrapper) -->
+Download Designated Responsible Party Declaration
+<!--// CTA-->
 *****
 <!--// Service entry-->
-Fill out the form.
+<!--Service entry title-->
+### Complete your application
+<!--// Service entry title-->
+<!--entry subhead -->
+#### After you have completed all the required steps, it's time to submit your application.
+<!--// entry subhead -->
 
-  ### Application process :
-  ### Submit application
   #### by mail
   #### online
   #### attach email
