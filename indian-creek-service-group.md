@@ -27,7 +27,7 @@ Woodworth, LA 71485
 
 **After hours**
 
-Gate entry after hours by credit/debit card or passcode provided by the office.
+Gate entry with credit/debit card or passcode provided by the office.
 
 ##### Hours
 - Monday-Saturday: 7am-5:30pm
