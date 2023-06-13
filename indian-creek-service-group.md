@@ -21,7 +21,7 @@
 Woodworth, LA 71485
 
 ##### Entry
-** During open hours **
+**During open hours**
 **call:** 318-487-5058
 **After hours**
 Gate entry after hours by credit/debit card or passcode provided by the office.
