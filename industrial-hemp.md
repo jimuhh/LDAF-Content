@@ -181,7 +181,7 @@ Background checks are intended to verify that applicants do not have:
 - is the primary contact for the application and license-related issues.
 - is authorized to sign all required. Industrial hemp program documentss on entity's behalf.
 
-If the designated responsible party changes, complete a new Designated Responsible Party Declaration.
+**If the designated responsible party changes**, complete a new Designated Responsible Party Declaration.
 
 <!-- // description with headline (DwH) reference -->
 <!-- CTA (linked to document wrapper) -->
