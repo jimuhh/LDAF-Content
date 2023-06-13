@@ -20,6 +20,12 @@
 100 Camp Ground Rd, 
 Woodworth, LA 71485
 
+##### Entry
+** During open hours **
+**call:** 318-487-5058
+** After hours**
+Gate entry after hours by credit/debit card or passcode provided by the office.
+
 ##### Hours
 - Monday-Saturday: 7am-5:30pm
 - Sunday: 1pm-5:30pm
@@ -61,9 +67,8 @@ Address:
 - BBQ pits
 - Fire rings
 
-Monday-Saturday: 7am-5:30pm
-Sunday: 1pm-5:30pm
-Call us during open hours at 318-487-5058. You can get gate entry after hours by credit/debit card or passcode provided by the office.
+
+
 
 <!--service categories (from category content type): Licensing, industrial hemp-->
 ****
