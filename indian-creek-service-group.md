@@ -16,16 +16,14 @@ People **may** grow and produce Industrial Hemp in Louisiana if they **meet all 
 
 
 <!--service group section hed -->
-###  Responsibility and oversight
+### Hours and Location
 <!--// service group section hed -->
 <!--service group section subhed -->
-#### Production, distribution and sale of hemp products, as well as licensing for people in the trade, are governed by different agencies of Louisiana's government.
+#### tk
 <!--// service group section subhed -->
 <!--service group section block -->
-- **Production and processing of industrial hemp:** are regulated by The Louisiana Department of Agriculture and Forestry
-- **Production and processing of "consumable hemp," including CBD and medical marijuana:** is regulated by [The Louisiana Board of Health](https://ldh.la.gov/) This includes ingestible or topical products containing Cannabidiol (**CBD**) 
-- **Sales of CBD products** must be registered through [the Louisiana Office of Alcohol and Tobacco Control](https://atc.louisiana.gov/).
-- **Background checks** The Louisiana State Police (LSP) receives and processes all requests for background checks.
+100 Camp Ground Rd, 
+Woodworth, LA 71485
 <!--//service group info block -->
 <!--service group section hed -->
 ### General Requirements
