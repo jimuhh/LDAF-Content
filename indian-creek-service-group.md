@@ -16,12 +16,15 @@ People **may** grow and produce Industrial Hemp in Louisiana if they **meet all 
 
 
 <!--service group section hed -->
-### Hours and Location
+### Location and hours
+Indian Creek Recreation Area is located within the Alexander State Forest between I-49 and US Hwy 165 in central Rapides Parish. 
 <!--// service group section hed -->
 <!--service group section subhed -->
 #### tk
 <!--// service group section subhed -->
 <!--service group section block -->
+Address: 
+
 100 Camp Ground Rd, 
 Woodworth, LA 71485
 <!--//service group info block -->
