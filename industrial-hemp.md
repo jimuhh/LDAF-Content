@@ -160,7 +160,7 @@ Background checks are intended to verify that applicants do not have:
 <!-- description for DwH -->
   - [General instructions](http://www.ldaf.state.la.us/wp-content/uploads/2021/11/Map-Instructions-for-Applications.pdf)
   
-  - If the location of growing, processing, handling, or storing changes from what was on your original application, complete a **Site Modification Request.
+  - If the location of growing, processing, handling, or storing changes from what was on your original application, complete a **Site Modification Request.**
 <!--// description for DwH -->
 <!--// description with headline CT reference -->
 <!--// Service entry-->
@@ -169,7 +169,19 @@ Background checks are intended to verify that applicants do not have:
 <!--Service entry title-->
 
   ### Designate a responsible party
-for all daily business operations and is auth to sign all req. IH prog docs on entity's Bhalf
+<!--// Service entry title-->
+<!--entry subhead -->
+#### A responsible party is accountable for all daily business operations in any industrial hemp business.
+<!--// entry subhead -->
+<!-- // description with headline (DwH) reference -->
+
+##### Designated responsible party 
+means the individual identified by the commercial cannabis business who:
+- who has legal authority to bind the commercial cannabis business 
+- who is the primary contact for the application and license-related issues.
+- and is authorized to sign all required. Industrial hemp program documentss on entity's behalf.
+
+<!-- // description with headline (DwH) reference -->
 
 Fill out the form.
 
