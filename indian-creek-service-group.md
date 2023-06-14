@@ -26,8 +26,10 @@ Woodworth, LA 71485
 
 ##### Admission and entry fees
 **All visitors:**
-- $7 per vehicle.
+- **$7 per vehicle.**
     - Bring a debit/credit card to pay for a day pass at the entry
+- **Veterans with ID:** 50% off ($3.50) 
+- **Disabled veterans with ID:** Free
 **During open hours**
 
 **call:** 318-487-5058
