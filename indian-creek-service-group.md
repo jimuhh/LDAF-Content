@@ -24,7 +24,10 @@ Woodworth, LA 71485
 - Monday-Saturday: 7am-5:30pm
 - Sunday: 1pm-5:30pm
 
-##### Admission
+##### Admission and entry fees
+**All visitors:**
+- $7 per vehicle.
+    - Bring a debit/credit card to pay for a day pass at the entry
 **During open hours**
 
 **call:** 318-487-5058
