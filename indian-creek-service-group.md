@@ -93,14 +93,12 @@ Address:
 
 ####  Campgrounds and RV area
 
+Be aware you’re in a forest and use caution. You might run across poisonous snakes, alligators, raccoons, black bears, snapping turtles and other animals that could potentially harm you if they feel threatened.
+- Registered visitors are responsible for all visitors at their site.
 - Keep campsites clean and orderly. No littering, including cigarette butts. Dispose litter in dumpsters centrally located on Azalea Trail. 
 - Dispose of sewerage and water from RV or camper at one of the 2 dump stations. Don’t dispose other waste in dump station.
-eep pets on leash to ensure the safety of other pets and visitors.  
-Be aware you’re in a forest and use caution. You might run across poisonous snakes, alligators, raccoons, black bears, snapping turtles and other animals that could potentially harm you if they feel threatened.
-Don’t bring or use chainsaws and don’t burn pallets. You can easily find firewood throughout the site.
-No metal detectors.
-No fireworks.
-Registered visitors are responsible for all visitors at their site.
+- Don’t bring or use chainsaws and don’t burn pallets. You can easily find firewood throughout the site.
+
 
 
    
